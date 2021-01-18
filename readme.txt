@@ -1,4 +1,4 @@
 nice
 wot
 game
-test p1
+test p1 p2
